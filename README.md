@@ -6,4 +6,6 @@ Demo projectnya dapat diakses di
 nursulaiman.dimasdwipr.my.id
 
 Screenshoots
-![download](https://user-images.githubusercontent.com/67831932/210190268-61037eea-70cf-4392-8fd4-c2705649a877.jpg)
+
+### Registration page
+![regitrasi page](https://user-images.githubusercontent.com/67831932/210190675-992587ea-b7a6-4cee-902a-97e9886e7f02.png)
