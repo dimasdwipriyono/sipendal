@@ -3,7 +3,7 @@ Sipendal merupakan sistem penitipan sandal digital pada masjid berbasis internet
 Project ini ditujukan untuk memenuhi tugas akhir 2 (skripsi).
 
 Demo projectnya dapat diakses di
-nursulaiman.dimasdwipr.my.id
+www.nursulaiman.dimasdwipr.my.id
 
 Screenshoots
 
